@@ -2,12 +2,12 @@
 
 The goal of this project is to make a thymio robot move in an environment with obstacle to reach a goal position. 
 
-## Task1 : create the environment 
+## Task1 : Create the environment 
 
 Your environment has to contain a set of obstacles that the Thymio avoids through global navigation.
 That is to say, the Thymio should avoid these obstacles without using the sensors to detect them. 
 
-## Task 2 : global navigation
+## Task 2 : Global Navigation
 
 The objective is that the Thymio goes from an arbitrary position in the map to a target that can be placed
 anywhere in the environment. These will be changed during the demo to see how your system performs. 
